@@ -9,7 +9,7 @@ Previous leading up lives includes: delicately dishwashing plates, being a newbo
 I am helping build on my open-source Ruby gem called [mynatra](https://github.com/christianarab/mynatra). I am also one of two developers working on an upcoming mobile fitness & habit forming app called 
 [shimmy](https://github.com/Co-Lab-You-Belong-in-Tech/shimmy) 
 with [Co.lab](https://www.joincolab.io/). \
-_credits for adorable shimmy mascot by my teammate Sam Lam_
+_cred-points for adorable shimmy mascot by my teammate Sam Lam_
 
 #### Where can you reach me?
 
