@@ -6,7 +6,7 @@ Previous leading up lives includes: delicately dishwashing plates, being a newbo
 #### What am I working on right now.
 <img align='left' width='80' height='90' src='https://github.com/Co-Lab-You-Belong-in-Tech/shimmy/blob/main/shimmy.png'>
 
-I am helping build on my open-source Ruby gem called mynatra. I am also one of two developers working on an upcoming mobile fitness & habit forming app called 
+I am helping build on my open-source Ruby gem called [mynatra](https://github.com/christianarab/mynatra). I am also one of two developers working on an upcoming mobile fitness & habit forming app called 
 [shimmy](https://github.com/Co-Lab-You-Belong-in-Tech/shimmy) 
 with [Co.lab](https://www.joincolab.io/). \
 _credits for adorable shimmy mascot by my teammate Sam Lam_
