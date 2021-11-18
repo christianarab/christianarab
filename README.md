@@ -6,6 +6,8 @@ Previous leading up lives includes: delicately dishwashing plates, being a newbo
 #### What am I working on right now.
 <img align='left' width='80' height='90' src='https://github.com/Co-Lab-You-Belong-in-Tech/shimmy/blob/main/shimmy.png'>
 
+As of November 2021, I am currently working as a Rails developer for [Helping Hands organization](https://helpinghandsapp.com/).
+
 I am helping build on my open-source Ruby gem called [mynatra](https://github.com/christianarab/mynatra). I am also one of two developers working on an upcoming mobile fitness & habit forming app called 
 [shimmy](https://github.com/Co-Lab-You-Belong-in-Tech/shimmy) 
 with [Co.lab](https://www.joincolab.io/). \
