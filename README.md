@@ -1,6 +1,5 @@
 ### Hi there from Christian!
 #### Who am I?
-<img align='right' width="200" height="200" src='https://media-exp1.licdn.com/dms/image/C5603AQFLgJGOQh0e1g/profile-displayphoto-shrink_800_800/0/1627672534869?e=1640217600&v=beta&t=tDEYqRMYBfxCRcZiu6vmV-Bx0tgtbbynkzy0uUnplmI'>
 Previous leading up lives includes: delicately dishwashing plates, being a newborn baby photographer, pizza maker, and newspaper photo archive assistant. I'm now a fresh software developer trying to ease into contributing to open-source and build products. 
 
 #### What am I working on right now.
